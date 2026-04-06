@@ -1,24 +1,9 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:001f3f,100:0074D9&text=Lucas%20de%20Oliveira%20Santos&section=header&fontColor=fff&fontSize=40&fontAlignY=25&animation=fadeIn&desc=Estudante%20de%20Engenharia%20de%20Software%20•%20Técnico%20em%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=50" />
 
-<h1 align="center">Lucas de Oliveira Santos</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvedor em formação • Técnico em Desenvolvimento de Sistemas
-</p>
+## 🛠️ Habilidades & Ferramentas
 
----
-
-## 🧑‍💻 Sobre Mim
-👋 Olá! Meu nome é Lucas. Sou Técnico em Desenvolvimento de Sistemas e tenho interesse em programação e tecnologia.  
-Estou construindo minhas primeiras experiências na área e evoluindo gradualmente.
-
----
-
-## ⚙️ Tecnologias
-
-<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -31,29 +16,25 @@ Estou construindo minhas primeiras experiências na área e evoluindo gradualmen
   <img src="https://img.shields.io/badge/Tinkercad-1572B6?style=for-the-badge&logo=tinkercad&logoColor=white"/>
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white"/>
-</p>
-
----
-
-## 🛠️ Ferramentas
-
-<p align="left">
+  
   <img src="https://img.shields.io/badge/Visual_Studio-865FC7?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-EE4C2C?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</div>
+<br><br>
+<p align="center">
+  <img width="400px" src="https://streak-stats.demolab.com/?user=lucas-santos0&theme=react" />
 </p>
 
----
-
-## 📫 Contato
-
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:001f3f,100:0074D9&section=footer&animation=fadeIn" />
   <a href="mailto:lucasdeoliveirasantos31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-0074D9?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/lucassantos0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0074D9?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
 </div>
